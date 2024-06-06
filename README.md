@@ -8,4 +8,4 @@ Quizify is full-stact web-app project
 <li>MongoDb</li>
 <li>Tailwind</li>
 
-<h5>For Source Code Go to master branch and you get the project source code.</h5>
+<h2>* For Source Code Go to master branch and you get the project source code.</h5>
