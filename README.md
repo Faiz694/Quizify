@@ -1,5 +1,5 @@
 <h1>Quizify</h1>
-Quizify is full-stact web-app project
+Quizify is full-stact Quize Management System. where you can conduct Quize Exam.
 
 <h5>Stack</h5>
 <li>React</li>
